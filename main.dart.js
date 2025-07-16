@@ -86493,7 +86493,7 @@ s($,"aMV","ayh",()=>new A.Xp())
 r($,"aRk","bg",()=>$.ayh())
 r($,"aQU","anZ",()=>B.ze)
 r($,"aRw","arn",()=>{var q=t.z
-return A.at(["Magasin",$.pY,"1 bouteille",2,"2 bouteilles",1,"Speaker",1,"Pin",0,"Decapsuleur",1],q,q)})
+return A.at(["Magasin",$.pY,"1 bouteille",24,"2 bouteilles",12,"Speaker",1,"Pin",2,"Decapsuleur",4],q,q)})
 s($,"aQr","aA1",()=>A.apH(1,1,500))
 r($,"aMP","aye",()=>new A.FH(B.r,B.r))
 s($,"aRx","aAL",()=>A.at([B.B3,A.ll(40),B.B4,A.ll(40),B.lr,A.ll(12)],A.aB("qB"),t.m_))
